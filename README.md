@@ -9,7 +9,7 @@ By default it auto-asks **"What is the color of the cloth in this image?"**
 once Gemma is loaded and the cloth has settled, then keeps the chat open for
 follow-ups.
 
-![demo placeholder](docs/demo.png)
+![demo placeholder](Setup.png)
 
 ## Repo layout
 
