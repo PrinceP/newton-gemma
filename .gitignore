@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Virtualenvs
+myenv/
+.venv/
+venv/
+
+# Model weights (multi-GB; download separately per README)
+models/
+
+# Runtime artifacts
+imgui.ini
+*.log
+.cache/
+
+# Snapshots written by the chat wrapper
+/tmp/newton_gemma_*.png
+newton_gemma_snapshot.png
+newton_gemma_screenshot.png
+
+# IDE
+.vscode/
+.idea/
